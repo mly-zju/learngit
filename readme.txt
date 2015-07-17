@@ -4,4 +4,3 @@ This line is added by feast.
 This line is added by dev.
 Test stash function.
 This is a second line added by dev.
-This is.
