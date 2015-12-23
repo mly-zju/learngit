@@ -5,3 +5,4 @@ This line is added by dev.
 Test stash function.
 This is changed by dev again and master!
 a new line..........
+a new line..
