@@ -6,4 +6,4 @@ Test stash function.
 This is changed by dev again and master!
 a new line..........
 a new line..
-a again, a new line!
+a again, a new line!modified by mly2.
