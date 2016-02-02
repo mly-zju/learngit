@@ -6,5 +6,5 @@ Test stash function.
 This is changed by dev again and master!
 a new line..........
 a again, a new line!modified by mly2.
-This is added by master!!!!!!
+This is added by master!
 This is added by mly!
