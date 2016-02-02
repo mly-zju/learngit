@@ -7,3 +7,4 @@ This is changed by dev again and master!
 a new line..........
 a new line..modified by mly1.
 a again, a new line!
+This is added by master!
